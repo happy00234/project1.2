@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Womens section
+=======
+kid's section
+>>>>>>> 9cce68b9e0419d564186c1feb5ea2adb853d79e7
